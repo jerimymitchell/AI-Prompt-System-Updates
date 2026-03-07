@@ -1,0 +1,4 @@
+LatestLibraryVersion=2026.03.06
+EngineRequired=1.0.0
+DownloadURL=https://YOUR_DOWNLOAD_LINK
+InstructionsURL=https://docs.google.com/document/d/111fA35qXH0sKniqEogI3UZdbXjVMo3H1OKW2TgPsalo
