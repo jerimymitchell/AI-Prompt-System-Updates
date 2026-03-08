@@ -1,4 +1,5 @@
-LatestLibraryVersion=2026.03.06
+LatestLibraryVersion=2026.03.07 - Test
 EngineRequired=1.0.0
 DownloadURL=https://drive.google.com/uc?export=download&id=19dTQc27rKwY66f4xAPehp356yRxcFl2e
 InstructionsURL=https://docs.google.com/document/d/111fA35qXH0sKniqEogI3UZdbXjVMo3H1OKW2TgPsalo
+
