@@ -1,9 +1,10 @@
-LatestLibraryVersion=1.1.2
+LatestLibraryVersion=1.2.1
 LatestEngineVersion=1.1.3
 MinimumSupportedEngine=1.1.3
 LibraryDownloadURL=
 EngineDownloadURL=
 InstructionsURL=https://docs.google.com/document/d/111fA35qXH0sKniqEogI3UZdbXjVMo3H1OKW2TgPsalo
+
 
 
 
