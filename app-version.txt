@@ -1,5 +1,5 @@
 LatestLibraryVersion=1.2.1
-LatestEngineVersion=1.2.1
+LatestEngineVersion=1.2.0
 MinimumSupportedEngine=1.2.0
 LibraryDownloadURL=
 EngineDownloadURL=
