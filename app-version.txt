@@ -6,7 +6,7 @@ EngineDownloadURL=
 InstructionsURL=https://docs.google.com/document/d/111fA35qXH0sKniqEogI3UZdbXjVMo3H1OKW2TgPsalo
 UpdateDescription=Library Update v1.2.2 - March 2026
 UpdateNotes=– Upgraded all prompt intelligence to Master Standard v1.2 ||– Upgraded all Category Routers to v2.0 with full prompt knowledge maps ||– Added isolation notices and adaptive logic to every prompt in the system ||– Improved scope boundaries and cross-category routing across all categories ||– Added complexity scaling, dependency protection, and continuation mode throughout ||– New dark and light theme toggle available on all pages||– Prompt library now updates automatically when connected to the internet||– Refresh Library button added for manual update check and status||– General stability improvements and background optimizations
-DeveloperMessage=Welcome to v1.2.2 — dark/light theme is now live. More updates coming soon!
+DeveloperMessage=Welcome to Engine v1.2. — dark/light theme is now live. More updates coming soon!
 
 
 
